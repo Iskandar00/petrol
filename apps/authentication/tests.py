@@ -7,7 +7,3 @@ for i in range(len(nums)):
             print(i, j)
             break
 """
-a = []
-number = int(input('>>>'))
-# for i in range(a):
-print(a)
